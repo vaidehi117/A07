@@ -30,6 +30,14 @@ header {
 	background-image: linear-gradient(
 	    30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 }
+h1 {
+	padding: 10px;
+	border: 3px double #931420;
+	border-radius: 15px;
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+	display: inline-block;
+  }
+
 header h2 {
 	font-size: 175%;
 	color: #800000;
